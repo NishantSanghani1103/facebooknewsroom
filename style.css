@@ -340,6 +340,10 @@ header {
     display: none;
 }
 
+.closeIcon {
+    display: none;
+}
+
 .banner {
     margin: 50px 0px;
     max-width: 100%;
@@ -511,7 +515,7 @@ header {
 }
 
 .banner-content-items-images {
-    max-width: 263px;
+    max-width: 40%;
 }
 
 .banner-content-items-images>figure>img {
