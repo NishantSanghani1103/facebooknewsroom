@@ -6,7 +6,6 @@
     text-decoration: none;
 }
 
-
 .banner-mid-right-content-heading>h3>a:hover {
     color: #4f4d4d;
 }
@@ -22,9 +21,11 @@
 .footer-mid-virtual-reality-link>ul>li>a:hover {
     color: #4f4d4d;
 }
-.header-mid-virtual-reality-link>ul>li>a:hover{
+
+.header-mid-virtual-reality-link>ul>li>a:hover {
     color: #4f4d4d;
 }
+
 .header-mid-virtual-reality-link>ul>li>a:hover .header-border-bottom {
     color: #4f4d4d;
     left: 0px;
@@ -35,25 +36,29 @@
     position: relative;
 }
 
-.banner-images{
-    
+.banner-images {
     overflow: hidden;
 }
-.banner-mid-image img:hover{
+
+.banner-mid-image img:hover {
     transition: 0.5s;
     transform: scale(1.1);
 }
-.banner-content-items-images img:hover{
+
+.banner-content-items-images img:hover {
     transform: scale(1.1);
     transition: 0.5s;
 }
-.banner-content-items-images{
+
+.banner-content-items-images {
     overflow: hidden;
 }
-.review-right-images{
+
+.review-right-images {
     overflow: hidden;
 }
-.review-right-images img:hover{
+
+.review-right-images img:hover {
     transform: scale(1.1);
     transition: 0.5s;
 }
@@ -82,10 +87,12 @@
     width: 100%;
     left: 0px;
 }
-.menu>ul>li>a>i{
+
+.menu>ul>li>a>i {
     transform: rotate(0deg);
     transition: 0.5s;
 }
+
 .menu>ul>li>a:hover #rotate {
     transform: rotate(-180deg);
 }
@@ -113,8 +120,6 @@ header {
     /* gap: 50px; */
     align-items: center;
     justify-content: space-between;
-
-
 }
 
 .header-mid-left {
@@ -166,7 +171,6 @@ header {
 .menu>ul {
     display: flex;
     gap: 50px;
-
 }
 
 .menu>ul>li {
@@ -179,7 +183,6 @@ header {
     font-weight: normal;
     font-size: 16px;
     text-transform: capitalize;
-
 }
 
 .mega-menu {
@@ -253,7 +256,6 @@ header {
 }
 
 .mega-menu-mid-items {
-
     /* border: 1px solid red; */
     /* position: absolute;
     top: 0px;
@@ -334,6 +336,10 @@ header {
     /* transition: transform .665s cubic-bezier(0, 0, .1, 1); */
 }
 
+.micon {
+    display: none;
+}
+
 .banner {
     margin: 50px 0px;
     max-width: 100%;
@@ -368,7 +374,6 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-
 }
 
 .banner-images {
@@ -398,7 +403,6 @@ header {
     line-height: 43px;
     letter-spacing: 1.8px;
     color: #000;
-
 }
 
 .banner-mid-images-content-heading>p {
@@ -533,7 +537,6 @@ header {
     margin: 0px auto;
     align-self: center;
     /* border: 1px solid red; */
-
 }
 
 .review-right-images {
@@ -560,7 +563,6 @@ header {
 
 .news-mid-link {
     flex-basis: 13.50%;
-
     /* border: 1px solid green; */
 }
 
@@ -579,7 +581,6 @@ header {
 }
 
 .news-mid-recent-heading>a {
-
     color: #333;
     text-transform: capitalize;
     font-weight: 700;
