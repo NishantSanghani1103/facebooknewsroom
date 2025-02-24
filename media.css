@@ -80,12 +80,11 @@
                     flex-direction: column;
                 }
                 .banner-mid-image {
-                    max-width: 100%;
-                    display: flex;
-                    justify-content: center;
+                    max-width: 95%;
+                    margin: 0px 20px;
                 }
                 .banner-mid-image>figure>img {
-                    width: 290px;
+                    width: 100%;
                     height: 217px;
                 }
                 .banner-content-mid {
@@ -110,7 +109,7 @@
                     display: none;
                 }
                 .banner-images {
-                    max-width: 629px;
+                    max-width: 100%;
                 }
                 .banner-mid-images-content-heading-time {
                     margin: 8px 0px;
